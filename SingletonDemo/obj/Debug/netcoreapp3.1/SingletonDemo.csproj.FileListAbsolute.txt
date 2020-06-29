@@ -1,0 +1,13 @@
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csprojAssemblyReference.cache
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\surya\OneDrive\Projects\SingletonDemo\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache
